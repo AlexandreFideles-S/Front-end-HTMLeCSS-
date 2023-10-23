@@ -1,0 +1,78 @@
+/*SEÇÃO SOBRE NÓS */ 
+
+.section__sobre{
+    text-align: center;
+    margin: 96px 0;
+
+    margin-top: 107px;
+
+}
+.titulo__sobre{
+    margin-bottom: 24px;
+    
+
+    font-size: 16px;
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+
+}
+.titulo__diferenca{
+    margin-bottom: 36px;
+
+    color: var(--preto);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.p__sobre{
+    font-size: 20px;
+    color: var(--cinza-claro);
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/*SEÇÃO DADOS */ 
+.section__dados{
+
+    padding-right: 1%;
+    padding-left: 7%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+
+.dados{
+    margin-bottom:196px;
+
+    width: 280px;
+    height: 72px;
+
+}
+
+.titulo__dados{
+
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho-escuro);
+   
+
+}
+.subtitulo__dados{
+    margin-top: 12px;
+    line-height: 28px;
+
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--preto);
+}
+.p__dados{
+    margin-top: 8px;
+
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    line-height: 24px;
+
+}

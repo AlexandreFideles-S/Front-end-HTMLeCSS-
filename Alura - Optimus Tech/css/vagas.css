@@ -1,0 +1,85 @@
+/*SEÇÃO VAGAS */ 
+.section__vagas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        
+    margin-top: 107px;
+
+}
+.titulo__vagas{
+
+    width: 125px;
+    height: 28px;
+
+    padding: 4px 12px;
+
+    font-size: 16px;
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+
+}
+
+.titulo__talentos{
+    margin-bottom: 20px;
+
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.p__vagas{
+    font-size: 20px;
+    color: var(--cinza-claro);
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.imagem-entrevista{
+    margin: 64px 112px;
+}
+
+/* SEÇÃO DE CARGOS */
+
+.cargos{
+    margin-bottom: 64px;
+
+    padding: 0px 336px;
+
+}
+.titulo__cargos{
+    margin-bottom: 56px;
+
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: var(--preto);
+    
+}
+.descricao__cargos{
+    margin: 24px;
+    padding: 24px;
+
+    border: 1px solid #d5deed;
+    border-radius: 16px;
+}
+
+.subtitulo__cargos{
+    margin-bottom: 32px; 
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--preto);
+   }
+
+.p__cargos{
+
+    font-weight: 500;
+    font-size: 16px;
+
+    color: var(--cinza-claro);
+}

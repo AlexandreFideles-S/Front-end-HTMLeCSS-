@@ -1,0 +1,24 @@
+:root {
+    --branco:#FFFF;
+    --cinza-claro:#667085;
+    --cinza-escuro:#3A404E;
+    --vermelho-escuro:#8E2424;
+    --cinza-muito-claro: #d3d4d4;
+    --preto:#101828;
+}
+html, body {
+    width: 1440px;
+    height: 100vh;
+    margin: 0 auto ;
+
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Inter', sans-serif;
+
+  
+  }
+  
+  header { 
+      font-family: 'Inter', sans-serif;}
+  
+ 

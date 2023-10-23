@@ -1,0 +1,33 @@
+.section__opinioes{
+    padding: 64px;
+    text-align: center;
+}
+.titulo__opinioes{
+    margin-top: 64px;
+    margin-bottom: 16px;
+
+    font-size: 16px;
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+}
+.titulo__citacao{
+    margin-bottom: 32px;
+
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+}
+.nome-colaborador{
+    margin-top: 16px;
+    margin-bottom: 8px;
+
+    color: var(--preto);
+    font-weight: 600;
+    font-size: 16px;
+}
+.cargo-colaborador{
+    color: var(--cinza-claro);
+    font-size: 14px;
+    line-height: 20px;
+}
