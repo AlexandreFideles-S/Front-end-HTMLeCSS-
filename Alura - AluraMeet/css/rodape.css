@@ -1,0 +1,9 @@
+.rodape{
+    padding: 8px;
+    background-color: var(--branco);
+    border-radius: 12px;
+}
+.lista__rodape{
+    display: flex;
+    justify-content: space-around;
+}
